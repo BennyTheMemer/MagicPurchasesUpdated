@@ -1,0 +1,1 @@
+A simple scraper that scraps cardmarket for card prices, which he gets from an excel of purchases, and fills the excel with their current price and diff between paid price and current price of the card.
